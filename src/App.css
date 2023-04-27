@@ -6,6 +6,7 @@
 .colour-border{
   border: 3px solid rgb(128, 0, 0);
   padding: 10px;
+  background-color: rgb(157, 255, 0);
 }
 
 .header{
